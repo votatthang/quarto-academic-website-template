@@ -10,16 +10,111 @@
 <atom:link href="https://drganghe.github.io/quarto-academic-website-template/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Sat, 03 Apr 2027 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Jul 2027 22:00:00 GMT</lastBuildDate>
 <item>
-  <title>Three team members has delivered talks at EUROCIM 2026!</title>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/20261604_eurocim26/</link>
+  <title>My work on optimal transport and generalizability of trial results will be presented at the 2026 Pacific Causal Inference Conference, Tianjin, China!</title>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/20260718_pcic26/</link>
   <description><![CDATA[ 
 
 
 
 
-<p>Thang, Marie-Felicia and Enrico has presented their most recent works at the 2026 European Causal Inference Meeting, organized at Oxford University, UK this April.</p>
+<p>My work on the transportability of trial results to a new target population with limited aggregate information by optimal transport will be presented in the invited session on “Partial Identification, Optimal Transport, and Sensitivity Analysis” (Session 2, July 18, 1:30PM-3:10PM), Pacific Causal Inference Conference 2026.</p>
+<p><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/pcic2026.png" class="img-fluid"></p>
+<p>The Pacific Causal Inference Conference (PCIC), established in 2019 by Dr.&nbsp;Xiao-Hua Zhou, Distinguished Chair Professor at Peking University, Chair of the Department of Biostatistics at the School of Public Health, and Director of the Biostatistics and Informatics Research Center at the Beijing International Center for Mathematical Research, has become an annual academic event in the causal science community. Dedicated to exploring the latest developments in causal inference across various domains, PCIC has successfully hosted seven editions in Beijing and Shanghai from 2019 to 2025.</p>
+<p>The 8<sup>th</sup> Pacific Causal Inference Conference (PCIC 2026), an official satellite conference of the <a href="https://www.ibc2026.org/home">International Biometric Conference (IBC 2026)</a>. PCIC 2026 will take place in Tianjin, China, from July 18 to 19, 2026. As an internationally influential academic platform, PCIC 2026 will convene top researchers from around the world, foster interdisciplinary collaboration, advance the frontiers of causal inference theory, and accelerate its innovative applications across diverse industries.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+ ]]></description>
+  <category>event</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/20260718_pcic26/</guid>
+  <pubDate>Sat, 17 Jul 2027 22:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/pcic2026.png" medium="image" type="image/png" height="59" width="144"/>
+</item>
+<item>
+  <title>I will deliver a talk on causal meta-mediation analysis at the 2026 International Biometric Conference, Seoul, Korea!</title>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/20260712_ibc26/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Our work on causal meta-mediation analysis will be presented in the invited session on “Recent Advances in Causal Mediation Analysis” (IS25, July 14, 4:00PM-5:30PM, Room 404C, Chair: Genevieve Lefebvre), International Biometric Conference 2026.</p>
+<p><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/ibc2026.png" class="img-fluid"></p>
+<p>Held in Seoul, South Korea at the COEX Magok from 12 – 16 July, 2026, the International Biometric Society (IBS) invites statisticians, mathematicians, biological scientists, and interdisciplinary enthusiasts to the next IBC, fostering advancements in biosciences<strong>.</strong></p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+ ]]></description>
+  <category>event</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/20260712_ibc26/</guid>
+  <pubDate>Sun, 11 Jul 2027 22:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/ibc2026.png" medium="image" type="image/png" height="69" width="144"/>
+</item>
+<item>
+  <title>Our works on aggregate data in causal meta-analysis are accepted at Biometrics and JRSSA!</title>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/20260707_biom-jrssa/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Our work on aggregate data (AD) and causally interpretable meta-analysis has recently been published in Biometrics and JRSSA. The Biometrics paper discusses how to transport individual participant data (IPD) from a source study to a target population for which only AD are available. The latter paper addresses the transportability of a source study with AD to a target population also characterized by AD, by leveraging IPD from another trial in the evidence pool.</p>
+<p><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/biometrics.png" class="img-fluid"></p>
+<p>Both papers allow for heterogeneity in treatment versions across studies, which is common in the meta-analysis setting.<br>
+<br>
+Full-text can be found on arXiv :-)</p>
+<p><a href="https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fer8vXYXZ&amp;urlhash=e8F0&amp;mt=sbCsurGfULUljVTUes65H5YuBq9-_ct5AbpiBQyhCOaPI0uAKumXoiitsYRDhU52acpcbgBhocg0j1aSbPsoM9AQBy9C4kUtlusfFYJ8OZyVmzJZUFHh3f0Oqw&amp;isSdui=true"><strong>https://lnkd.in/er8vXYXZ</strong></a></p>
+<p><a href="https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fe6jR_d7U&amp;urlhash=eOEy&amp;mt=892_PTt4ulUgpfRT3VkmKHTRDP13czKx2T8vx92CkMeZ2kGdsOjJkconhrTe5mjv9eEgHzXSaMxtPsXTF2qawRPizzdD26tsoHTwbf_cuf-pVhQbFtVmQnxA7A&amp;isSdui=true"><strong>https://lnkd.in/e6jR_d7U</strong></a>.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+ ]]></description>
+  <category>paper</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/20260707_biom-jrssa/</guid>
+  <pubDate>Wed, 07 Jul 2027 22:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/biometrics.png" medium="image" type="image/png" height="124" width="144"/>
+</item>
+<item>
+  <title>Three team members have delivered talks at EUROCIM 2026!</title>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/20260416_eurocim26/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Thang, Marie-Felicia and Enrico have presented their most recent works at the 2026 European Causal Inference Meeting, organized at Oxford University, UK this April.</p>
 <p><a href="https://arxiv.org/abs/2401.04450"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/eurocim26.jpeg" class="img-fluid"></a></p>
 <p>Thang’s work introduces a novel method based on optimal transport to generalize results of a source trial to a new target population that has limited aggregate information on the case-mix. Marie-Felicia proposes a new framework for causally interpretable meta-mediation analysis with time-to-event outcomes. Enrico discusses design-aware constraint-based causal discovery for complex survey data.</p>
 <!--Include social share buttons-->
@@ -37,7 +132,7 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>event</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/20261604_eurocim26/</guid>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/20260416_eurocim26/</guid>
   <pubDate>Sat, 03 Apr 2027 22:00:00 GMT</pubDate>
   <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/eurocim26.jpeg" medium="image" type="image/jpeg"/>
 </item>
