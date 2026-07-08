@@ -10,7 +10,37 @@
 <atom:link href="https://drganghe.github.io/quarto-academic-website-template/posts.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Tue, 10 Mar 2026 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Apr 2027 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Three team members has delivered talks at EUROCIM 2026!</title>
+  <link>https://drganghe.github.io/quarto-academic-website-template/posts/20261604_eurocim26/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Thang, Marie-Felicia and Enrico has presented their most recent works at the 2026 European Causal Inference Meeting, organized at Oxford University, UK this April.</p>
+<p><a href="https://arxiv.org/abs/2401.04450"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/eurocim26.jpeg" class="img-fluid"></a></p>
+<p>Thang’s work introduces a novel method based on optimal transport to generalize results of a source trial to a new target population that has limited aggregate information on the case-mix. Marie-Felicia proposes a new framework for causally interpretable meta-mediation analysis with time-to-event outcomes. Enrico discusses design-aware constraint-based causal discovery for complex survey data.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+
+ ]]></description>
+  <category>event</category>
+  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/20261604_eurocim26/</guid>
+  <pubDate>Sat, 03 Apr 2027 22:00:00 GMT</pubDate>
+  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/eurocim26.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>The 2026 European Confenrece on AI for Clinical Applications (EURAICA 2026)</title>
   <link>https://drganghe.github.io/quarto-academic-website-template/posts/20260129_euraica/</link>

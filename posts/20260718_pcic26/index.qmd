@@ -1,0 +1,21 @@
+---
+title: "My work on optimal transport and generalizability of trial results will be presented at the 2026 Pacific Causal Inference Conference, Tianjin, China!"  
+#description: "About new item"  
+#author: "News"  
+date: "2027-07-18"  
+categories: [event]  
+image: "/files/images/pcic2026.png"  
+#css: /custom.css #draft: true
+---
+
+My work on the transportability of trial results to a new target population with limited aggregate information by optimal transport will be presented in the invited session on "Partial Identification, Optimal Transport, and Sensitivity Analysis" (Session 2, July 18, 1:30PM-3:10PM), Pacific Causal Inference Conference 2026.
+
+![](/files/images/pcic2026.png)
+
+The Pacific Causal Inference Conference (PCIC), established in 2019 by Dr. Xiao-Hua Zhou, Distinguished Chair Professor at Peking University, Chair of the Department of Biostatistics at the School of Public Health, and Director of the Biostatistics and Informatics Research Center at the Beijing International Center for Mathematical Research, has become an annual academic event in the causal science community. Dedicated to exploring the latest developments in causal inference across various domains, PCIC has successfully hosted seven editions in Beijing and Shanghai from 2019 to 2025.
+
+The 8^th^ Pacific Causal Inference Conference (PCIC 2026), an official satellite conference of the [International Biometric Conference (IBC 2026)](https://www.ibc2026.org/home). PCIC 2026 will take place in Tianjin, China, from July 18 to 19, 2026. As an internationally influential academic platform, PCIC 2026 will convene top researchers from around the world, foster interdisciplinary collaboration, advance the frontiers of causal inference theory, and accelerate its innovative applications across diverse industries.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

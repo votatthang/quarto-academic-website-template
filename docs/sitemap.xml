@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/index.html</loc>
-    <lastmod>2026-01-15T16:34:55.916Z</lastmod>
+    <lastmod>2026-01-29T14:48:47.494Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/publications.html</loc>
-    <lastmod>2026-01-18T10:26:18.721Z</lastmod>
+    <lastmod>2026-07-07T19:42:18.787Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/teaching.html</loc>
@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/people.html</loc>
-    <lastmod>2026-01-15T16:29:04.667Z</lastmod>
+    <lastmod>2026-07-07T19:29:17.595Z</lastmod>
   </url>
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/contact.html</loc>
@@ -55,5 +55,21 @@
   <url>
     <loc>https://drganghe.github.io/quarto-academic-website-template/posts/20260122_infection biologics/index.html</loc>
     <lastmod>2026-01-29T14:07:47.879Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/20261604_eurocim26/index.html</loc>
+    <lastmod>2026-07-07T20:16:14.401Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/20260707_biom-jrssa/index.html</loc>
+    <lastmod>2026-07-08T08:10:00.076Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/20260712_ibc26/index.html</loc>
+    <lastmod>2026-07-08T08:37:26.845Z</lastmod>
+  </url>
+  <url>
+    <loc>https://drganghe.github.io/quarto-academic-website-template/posts/20260718_pcic26/index.html</loc>
+    <lastmod>2026-07-08T08:56:18.385Z</lastmod>
   </url>
 </urlset>

@@ -1,0 +1,25 @@
+---
+title: "Our works on aggregate data in causal meta-analysis are accepted at Biometrics and JRSSA!" 
+#description: "About new item" 
+#author: "News" 
+date: "2027-07-08" 
+categories: [paper] 
+image: "/files/images/biometrics.png" 
+#css: /custom.css #draft: true ---
+---
+
+Our work on aggregate data (AD) and causally interpretable meta-analysis has recently been published in Biometrics and JRSSA. The Biometrics paper discusses how to transport individual participant data (IPD) from a source study to a target population for which only AD are available. The latter paper addresses the transportability of a source study with AD to a target population also characterized by AD, by leveraging IPD from another trial in the evidence pool.
+
+![](/files/images/biometrics.png)
+
+Both papers allow for heterogeneity in treatment versions across studies, which is common in the meta-analysis setting.\
+\
+Full-text can be found on arXiv :-)
+
+[**https://lnkd.in/er8vXYXZ**](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fer8vXYXZ&urlhash=e8F0&mt=sbCsurGfULUljVTUes65H5YuBq9-_ct5AbpiBQyhCOaPI0uAKumXoiitsYRDhU52acpcbgBhocg0j1aSbPsoM9AQBy9C4kUtlusfFYJ8OZyVmzJZUFHh3f0Oqw&isSdui=true)
+
+[**https://lnkd.in/e6jR_d7U**](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2Fe6jR_d7U&urlhash=eOEy&mt=892_PTt4ulUgpfRT3VkmKHTRDP13czKx2T8vx92CkMeZ2kGdsOjJkconhrTe5mjv9eEgHzXSaMxtPsXTF2qawRPizzdD26tsoHTwbf_cuf-pVhQbFtVmQnxA7A&isSdui=true).
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

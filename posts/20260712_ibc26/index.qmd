@@ -1,0 +1,19 @@
+---
+title: "I will deliver a talk on causal meta-mediation analysis at the 2026 International Biometric Conference, Seoul, Korea!"  
+#description: "About new item"  
+#author: "News"  
+date: "2027-07-12"  
+categories: [event]  
+image: "/files/images/ibc2026.png"  
+#css: /custom.css #draft: true 
+---
+
+Our work on causal meta-mediation analysis will be presented in the invited session on "Recent Advances in Causal Mediation Analysis" (IS25, July 14, 4:00PM-5:30PM, Room 404C, Chair: Genevieve Lefebvre), International Biometric Conference 2026.
+
+![](/files/images/ibc2026.png)
+
+Held in Seoul, South Korea at the COEX Magok from 12 – 16 July, 2026, the International Biometric Society (IBS) invites statisticians, mathematicians, biological scientists, and interdisciplinary enthusiasts to the next IBC, fostering advancements in biosciences**.**
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

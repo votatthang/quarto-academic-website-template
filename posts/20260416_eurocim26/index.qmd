@@ -1,0 +1,20 @@
+---
+title: "Three team members have delivered talks at EUROCIM 2026!"
+#description: "About new item"
+#author: "News"
+date: "2026-16-04"
+categories: [event]
+image: "/files/images/eurocim26.jpeg"
+#css: /custom.css
+#draft: true
+---
+
+Thang, Marie-Felicia and Enrico have presented their most recent works at the 2026 European Causal Inference Meeting, organized at Oxford University, UK this April.
+
+[![](/files/images/eurocim26.jpeg)](https://arxiv.org/abs/2401.04450)
+
+Thang's work introduces a novel method based on optimal transport to generalize results of a source trial to a new target population that has limited aggregate information on the case-mix. Marie-Felicia proposes a new framework for causally interpretable meta-mediation analysis with time-to-event outcomes. Enrico discusses design-aware constraint-based causal discovery for complex survey data.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
