@@ -18,6 +18,7 @@ listing:  #an example of listing external links
   contents: 
     - /people/marie-felicia.yml
     - /people/enrico-roma.yml
+    - /people/amine-raffali.yml
     - /people/khoi-le.yml
     - /people/jonathan-baleke.yml
     - /people/nicolas-mauffette.yml
@@ -54,7 +55,7 @@ format:
     link-external-newwindow: true
 ---
 
-Our current team includes two postdoctoral researchers and one PhD student. This year, we are excited to welcome three master’s students who are joining us for six-month internships.
+Our current team includes two postdoctoral researchers and two PhD students. This year, we are excited to welcome three master’s students who are joining us for graduate internships.
 
 ## Team
 

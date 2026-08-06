@@ -1,4 +1,35 @@
+    - #path: https://anr.fr/ 
+      image: "https://u-paris.fr/wp-content/uploads/2021/09/ANR-logo-C.jpg"
+      title: "tba"
+      author: PI
+      subtitle: "ANR"
+      description: "Survival Difference in Differences (SDiD): novel methods in health policy evaluation."
+      started: "2026"
+      ended: "2029"
+      funding: "241,000 EUR"
 
+    - #path: https://www.novonordisk.com 
+      image: "files/images/NN.jpg"
+      title: "25R09121C-DEVSTAR"
+      author: PI
+      subtitle: "Novo Nordisk"
+      description: "Causally Interpretable Network Meta-Analysis (CI-NMA): fit-for-purpose methods for
+      decision-making."
+      started: "2026"
+      ended: "2029"
+      funding: "190,000 EUR"
+      
+    - #path: https://anr.fr/ 
+      image: "https://u-paris.fr/wp-content/uploads/2021/09/ANR-logo-C.jpg"
+      title: "ANR-24-CE36-4302"
+      author: WP leader
+      subtitle: "ANR"
+      description: "Shortening the time to confirm or to rebut adverse events of interest related to innovative
+      therapies for immune-mediated inflammatory diseases."
+      started: "2025"
+      ended: "2029"
+      funding: "280,000 EUR"
+      
     - #path: https://anr.fr/ 
       image: "https://u-paris.fr/wp-content/uploads/2021/09/ANR-logo-C.jpg"
       title: "23R09551S-MEDIATION"
@@ -11,13 +42,4 @@
       funding: "200,000 EUR"
 
 
-    - #path: https://www.novonordisk.com 
-      image: "files/images/NN.jpg"
-      title: "25R09121C-DEVSTAR"
-      author: PI
-      subtitle: "Novo Nordisk"
-      description: "Causally Interpretable Network Meta-Analysis (CI-NMA): fit-for-purpose methods for
-      decision-making."
-      started: "2026"
-      ended: "2029"
-      funding: "190,000 EUR"
+

@@ -1,0 +1,10 @@
+    - path: https://drganghe.github.io/quarto-academic-website-template
+      image: "/files/profiles/amine.jpg"
+      title: "Amine Raffali"
+      #lastname: "A"
+#      author: 
+      subtitle: "PhD student"
+#      date: "2024-03-12"
+      categories: [PhD Student] 
+      started: "2026"
+      ended: "2029"
